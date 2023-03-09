@@ -28,6 +28,10 @@ The following REQUIRED features are completed:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<a href="https://www.loom.com/share/7de4f8461f4848a38529f8555def388f">
+    <img width="800" height="500" style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7de4f8461f4848a38529f8555def388f-1678327351571-with-play.gif">
+  </a>
+
 
 GIF created with **your chosen GIF tool**
 
